@@ -3,7 +3,7 @@
   "method": "Parallel OCR proofreading; selective image checks, not exhaustive facsimile verification",
   "files": 67,
   "lines": 6035,
-  "changed_lines": 1060,
+  "changed_lines": 1075,
   "records": [
     {
       "file": "spread_0001.txt",
@@ -27,13 +27,13 @@
       "file": "spread_0004.txt",
       "lines": 90,
       "changed_lines": 44,
-      "uncertainty_markers": 1
+      "uncertainty_markers": 0
     },
     {
       "file": "spread_0005.txt",
       "lines": 58,
       "changed_lines": 40,
-      "uncertainty_markers": 4
+      "uncertainty_markers": 0
     },
     {
       "file": "spread_0006.txt",
@@ -63,7 +63,7 @@
       "file": "spread_0010.txt",
       "lines": 95,
       "changed_lines": 18,
-      "uncertainty_markers": 1
+      "uncertainty_markers": 0
     },
     {
       "file": "spread_0011.txt",
@@ -92,19 +92,19 @@
     {
       "file": "spread_0015.txt",
       "lines": 92,
-      "changed_lines": 15,
+      "changed_lines": 16,
       "uncertainty_markers": 0
     },
     {
       "file": "spread_0016.txt",
       "lines": 95,
-      "changed_lines": 11,
+      "changed_lines": 17,
       "uncertainty_markers": 0
     },
     {
       "file": "spread_0017.txt",
       "lines": 91,
-      "changed_lines": 12,
+      "changed_lines": 14,
       "uncertainty_markers": 0
     },
     {
@@ -122,20 +122,20 @@
     {
       "file": "spread_0020.txt",
       "lines": 94,
-      "changed_lines": 20,
+      "changed_lines": 26,
       "uncertainty_markers": 0
     },
     {
       "file": "spread_0021.txt",
       "lines": 95,
       "changed_lines": 24,
-      "uncertainty_markers": 2
+      "uncertainty_markers": 0
     },
     {
       "file": "spread_0022.txt",
       "lines": 90,
       "changed_lines": 42,
-      "uncertainty_markers": 1
+      "uncertainty_markers": 0
     },
     {
       "file": "spread_0023.txt",
@@ -189,7 +189,7 @@
       "file": "spread_0031.txt",
       "lines": 91,
       "changed_lines": 36,
-      "uncertainty_markers": 8
+      "uncertainty_markers": 0
     },
     {
       "file": "spread_0032.txt",
@@ -405,7 +405,7 @@
       "file": "spread_0067.txt",
       "lines": 75,
       "changed_lines": 34,
-      "uncertainty_markers": 1
+      "uncertainty_markers": 0
     }
   ]
 }
