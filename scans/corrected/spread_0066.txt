@@ -1,0 +1,88 @@
+# spread_0066.png
+# Сохранены исходные строки; L/R — геометрическая оценка стороны разворота.
+
+=== PAGE L ===
+[L:000] 132
+[L:001] 123. Тураев Б.А. Классический Восток. Л.: Изд-во Брокгауз Ефрон, 1924.
+[L:002] 178 с.
+[L:003] 124. Уорф Б. Наука и языкознание. О двух ошибочных воззрениях на речь и
+[L:004] мышление, характеризуощих систему естественной логики, и о том, как
+[L:005] слова и обычаи влияют на мышление //Новое в лингвистике. Вып.1. М.:
+[L:006] Иностранная литература, 1960. — С. 169-182.
+[L:007] 125. Уотгс А. Путь дзэн. Киев: «София», 1993. — 320 с.
+[L:008] 126.Фармаковский Б.В. Художественный идеал античных Афин. Пг.. Огни,
+[L:009] 1918. -203 с.
+[L:010] 127.Фейербах Л. История философии. Собр. произв. В 3-х тт. Т. 1. М.:
+[L:011] Мысль, 1967. — 544 с.
+[L:012] 128.Франк Ф. Философия науки. М.: Иностранная литература, 1960. — 543 ст.
+[L:013] 129.Франкфорт Г. , Франкфорт Г.А., Уилсон Дж., Якобсен Т.В. В преддверии
+[L:014] философии. Духовные искания древнего человека. СПб.: Амфора, 2001.
+[L:015] —314 с.
+[L:016] 130.Фейерабенд П. Избранные труды по методологии науки. М.: Прогресс,
+[L:017] 1986. -543 с.
+[L:018] 131.Фрейденберг О.М. Миф и литература древности. М.: Наука, 1978.
+[L:019] 605 с.
+[L:020] 132.Фрэзер Д. Д. Золотая ветвь: исследование магии и религии. 2-е изд. М.:
+[L:021] Политиздат, 1983. — 703 с.
+[L:022] 133.Фролов Э. Д. Рождение греческого полиса. Л.: Изд-во ЛГУ, 1988. — 232 с.
+[L:023] 134.Хорган Дж. Конец науки. Взгляд на ограниченность знания на закате
+[L:024] Века Науки. СПб.: Амфора, 2001. - 479 с.
+[L:025] 135.Хюбнер К. Истина мифа. М.: Республика, 1996. — 448 с.
+[L:026] 136.Цейтен Г.Г. История математики в древности и в средние века. М.-Л.:
+[L:027] Гостехтеориздат, 1932. — 230 с.
+[L:028] 336
+[L:029] 137.Целлер Э. Очерк истории греческой философии. М.: Канон, 1996.
+[L:030] с.
+[L:031] 138.Чатгопадхьяя Д. История индийской философии. М : Прогресс 1996.
+[L:032] 328 с.
+[L:033] 139.Щедровицкий Г.П. Философия. Наука. Методология. М.: Школа культ.
+[L:034] политики, 1997. — 657 с.
+[L:035] 140.Щербатской Ф.И. Избранные труды по буддизму. М.: Наука, 1988.
+[L:036] 426 С.
+[L:037] 141. Щербатской Ф.И. Философское учение буддизма. Пт., 1 919. — 47 с.
+[L:038] 142.Шталь И.В. Гомеровский эпос. М.: Высшая школа, 1975. — 246 с.
+[L:039] 143.Элиаде М. Аспекты мифа. М.: Инвест - ППП, 1996. — 240 с.
+[L:040] 144.Этика и ритуал в традиционном Китае. Сборник статей. М.: Наука, 1988.
+[L:041] -331 с.
+[L:042] 145.Юнг К. Архетип и символ. М.: Ренессанс СП «ИВО Сид», 1991. — 304 с.
+[L:043] 146. Я открою тебе сокровенное слово. Литература Вавилонии и Ассирии.
+[L:044] -351 с.
+[L:045] М.: «Художественная литература», 1981.
+[L:046] 147. Burkert W. Ancient Mystery Cults. Cambridge, 1987.
+
+=== PAGE R ===
+[R:047] 133
+[R:048] 148. Chinese Science. Explorations of an Ancient Tradition. Cambridge, Massa-
+[R:049] chusetts-London, 1973.
+[R:050] 149. Dodds E.R. The Greeks and the Irrational. Berkeley – Los Angeles – London,
+[R:051] 1971.
+[R:052] 150. Eliade M.A. History of Religious Ideas. Vol 1. Chicago, 1978.
+[R:053] 151. Farrington B. The Rise of Abstract Science among the Greeks //Centaurus.
+[R:054] Vol.3. №№1-2. Copenhagen. 1953.
+[R:055] 152. Haas W. Östliches und westliches Denken. Hamburg, 1967.
+[R:056] 153. Hooykaas R. Science and Reformation //The Rise of modern Science (Internal
+[R:057] of External Faktors?). Massachusetts, 1968.
+[R:058] 154. Kerenyi K. Die Mythologie der Griechen. Die Götter- und Menschheits-
+[R:059] geschichten. Zürich, 1951.
+[R:060] 155. Kerenyi K. Die Eröffnung des Zugangs zum Mythos. Darmstadt, 1967.
+[R:061] 156. Kirk G.S. Myth. Its Meaning and Function in Ancient and other Cultures.
+[R:062] Berkeley; Los Angeles, 1970.
+[R:063] 157. Kirk G.S. The Nature of Greek Myth. Harmondsworth, 1976.
+[R:064] 158. Lilley S. Cause and Effect in the History of Science //Centaurus.
+[R:065] 1953.
+[R:066] Vol.3. – №№1-2. Copenhagen, 1953.
+[R:067] 159. Needham J. Clerks and Craftsmen in China and the West. Lectures and
+[R:068] Addresses of the History of Science and Technology. Cambridge, 1976.
+[R:069] 160. Needham J. The grand Titration. Science and Society in East and West. Lon-
+[R:070] don, 1969.
+[R:071] 161. Needham J. Thoughts of the Social Relations of Science and Technology in
+[R:072] China //Centaurus. – 1953. – Vol.3. – №№1-2. Copenhagen, 1953.
+[R:073] 162. Needham J. Time and Eastern Man. London, 1965.
+[R:074] 163. Otto W.F. Die Götter Griechenlands. Das Bild des Göttlichen im Spiegel des
+[R:075] griechischen Geistes. Frankfurt a. M., 1987.
+[R:076] 164. Rostow W.W. The Stages of Economic Growth. Cambridge, 1960.
+[R:077] 165. Shands H. The War with Words. Strukture and Transcendence. Hague-Paris,
+[R:078] 1971.
+[R:079] 166. Szabo A. Anfänge der griechischen Mathematik. München – Wien, 1969.
+[R:080] 167. Scientific Rationality: the Sociological Turn. Dordrecht; Boston, 1984.
+[R:081] 168. White L. Science of Culture. A study of Man and Civilisation. N.Y.: 1949.
