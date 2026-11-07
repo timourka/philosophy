@@ -1,0 +1,411 @@
+{
+  "model": "cursor/grok-4.7@500k",
+  "method": "Parallel OCR proofreading; selective image checks, not exhaustive facsimile verification",
+  "files": 67,
+  "lines": 6035,
+  "changed_lines": 1075,
+  "records": [
+    {
+      "file": "spread_0001.txt",
+      "lines": 76,
+      "changed_lines": 43,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0002.txt",
+      "lines": 74,
+      "changed_lines": 45,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0003.txt",
+      "lines": 93,
+      "changed_lines": 45,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0004.txt",
+      "lines": 90,
+      "changed_lines": 44,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0005.txt",
+      "lines": 58,
+      "changed_lines": 40,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0006.txt",
+      "lines": 96,
+      "changed_lines": 14,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0007.txt",
+      "lines": 105,
+      "changed_lines": 8,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0008.txt",
+      "lines": 96,
+      "changed_lines": 20,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0009.txt",
+      "lines": 101,
+      "changed_lines": 10,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0010.txt",
+      "lines": 95,
+      "changed_lines": 18,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0011.txt",
+      "lines": 92,
+      "changed_lines": 0,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0012.txt",
+      "lines": 92,
+      "changed_lines": 40,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0013.txt",
+      "lines": 95,
+      "changed_lines": 15,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0014.txt",
+      "lines": 94,
+      "changed_lines": 29,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0015.txt",
+      "lines": 92,
+      "changed_lines": 16,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0016.txt",
+      "lines": 95,
+      "changed_lines": 17,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0017.txt",
+      "lines": 91,
+      "changed_lines": 14,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0018.txt",
+      "lines": 91,
+      "changed_lines": 26,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0019.txt",
+      "lines": 93,
+      "changed_lines": 15,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0020.txt",
+      "lines": 94,
+      "changed_lines": 26,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0021.txt",
+      "lines": 95,
+      "changed_lines": 24,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0022.txt",
+      "lines": 90,
+      "changed_lines": 42,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0023.txt",
+      "lines": 98,
+      "changed_lines": 3,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0024.txt",
+      "lines": 72,
+      "changed_lines": 4,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0025.txt",
+      "lines": 92,
+      "changed_lines": 2,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0026.txt",
+      "lines": 98,
+      "changed_lines": 7,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0027.txt",
+      "lines": 95,
+      "changed_lines": 1,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0028.txt",
+      "lines": 91,
+      "changed_lines": 0,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0029.txt",
+      "lines": 93,
+      "changed_lines": 7,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0030.txt",
+      "lines": 89,
+      "changed_lines": 24,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0031.txt",
+      "lines": 91,
+      "changed_lines": 36,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0032.txt",
+      "lines": 91,
+      "changed_lines": 11,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0033.txt",
+      "lines": 92,
+      "changed_lines": 1,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0034.txt",
+      "lines": 92,
+      "changed_lines": 3,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0035.txt",
+      "lines": 92,
+      "changed_lines": 2,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0036.txt",
+      "lines": 92,
+      "changed_lines": 2,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0037.txt",
+      "lines": 90,
+      "changed_lines": 0,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0038.txt",
+      "lines": 92,
+      "changed_lines": 2,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0039.txt",
+      "lines": 93,
+      "changed_lines": 14,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0040.txt",
+      "lines": 99,
+      "changed_lines": 27,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0041.txt",
+      "lines": 59,
+      "changed_lines": 3,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0042.txt",
+      "lines": 91,
+      "changed_lines": 5,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0043.txt",
+      "lines": 97,
+      "changed_lines": 1,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0044.txt",
+      "lines": 93,
+      "changed_lines": 2,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0045.txt",
+      "lines": 92,
+      "changed_lines": 0,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0046.txt",
+      "lines": 92,
+      "changed_lines": 2,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0047.txt",
+      "lines": 89,
+      "changed_lines": 3,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0048.txt",
+      "lines": 92,
+      "changed_lines": 2,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0049.txt",
+      "lines": 94,
+      "changed_lines": 20,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0050.txt",
+      "lines": 95,
+      "changed_lines": 32,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0051.txt",
+      "lines": 91,
+      "changed_lines": 16,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0052.txt",
+      "lines": 91,
+      "changed_lines": 20,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0053.txt",
+      "lines": 90,
+      "changed_lines": 14,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0054.txt",
+      "lines": 94,
+      "changed_lines": 18,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0055.txt",
+      "lines": 97,
+      "changed_lines": 11,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0056.txt",
+      "lines": 88,
+      "changed_lines": 13,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0057.txt",
+      "lines": 95,
+      "changed_lines": 15,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0058.txt",
+      "lines": 94,
+      "changed_lines": 23,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0059.txt",
+      "lines": 95,
+      "changed_lines": 15,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0060.txt",
+      "lines": 88,
+      "changed_lines": 6,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0061.txt",
+      "lines": 61,
+      "changed_lines": 3,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0062.txt",
+      "lines": 91,
+      "changed_lines": 7,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0063.txt",
+      "lines": 93,
+      "changed_lines": 9,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0064.txt",
+      "lines": 70,
+      "changed_lines": 34,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0065.txt",
+      "lines": 96,
+      "changed_lines": 40,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0066.txt",
+      "lines": 82,
+      "changed_lines": 30,
+      "uncertainty_markers": 0
+    },
+    {
+      "file": "spread_0067.txt",
+      "lines": 75,
+      "changed_lines": 34,
+      "uncertainty_markers": 0
+    }
+  ]
+}
